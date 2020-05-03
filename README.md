@@ -1,2 +1,2 @@
 # MayChallenge
-Solved Questions From MayCHallenge on LeetCode
+Solved Questions From MayChallenge on LeetCode
