@@ -1,2 +1,2 @@
 # MayChallenge
-Jewels and Stones
+Solved Questions From MayCHallenge on LeetCode
